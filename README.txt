@@ -1,7 +1,6 @@
 Cat & Mouse
 
-Written by: Wajdi Aweida ID: 300571650, Razi Shibli: 324259555
-
+Written by: Wajdi Aweida
 --------------------
 General information:
 --------------------
@@ -15,8 +14,6 @@ editing levels.(Do not forget to make required change in CMake file)
 Note that levels 4,5 can hardly be passed without losing a life so play wisley.
 
 The palyer has 3 lives in the game. 
-
-Pay attention: the game is HIGHLY addictive.
 
 ------
 Files:
