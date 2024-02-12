@@ -1,7 +1,7 @@
 ﻿cmake_minimum_required (VERSION 3.26)
 
 project(ex2)
-set (MY_AUTHORS "Razi_Shibli-Wajdi_Aweida")
+set (MY_AUTHORS "Wajdi_Aweida")
 
 include (cmake/CompilerSettings.cmake)
 
